@@ -2,8 +2,6 @@
 
 ## Project setup
 ```
-npm install
-```
 # 安装包依赖
 npm install
 
